@@ -1,0 +1,38 @@
+body{
+    width: 1000px;
+    margin: 0 auto;
+}
+header{
+    color: black;
+    background: linear-gradient(to right, skyblue, rgb(194, 20, 194));
+    height: 100px;
+    font-style: oblique;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+.row{
+    background-color: darkmagenta;
+    text-align: center;
+    height: 50px;
+    font-style: normal;
+    color: white;
+}
+.center-page{
+    color: white;
+    background-color: rgb(122, 121, 121);
+    height: 550px;
+    padding-left: 3%;
+}
+footer{
+    height: 50px;
+    text-align: center;
+    font-style: oblique;
+    background: linear-gradient(to right, skyblue, rgb(194, 20, 194));
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
